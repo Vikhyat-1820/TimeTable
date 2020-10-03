@@ -4,13 +4,13 @@
 
 ### Year
 
-![year](https://github.com/Vikhyat-1820/TimeTable/blob/master/TIMETABLE_PREVIEW/ScreenshotA.png)
+![year](https://github.com/Vikhyat-1820/TimeTable/blob/main/TIMETABLE_PREVIEW/ScreenshotA.png)
 
 <br/>
 <br/>
 <br/>
 
-![year](https://github.com/Vikhyat-1820/TimeTable/blob/master/TIMETABLE_PREVIEW/ScreenshotB.png)
+![year](https://github.com/Vikhyat-1820/TimeTable/blob/main/TIMETABLE_PREVIEW/ScreenshotB.png)
 
 <br/>
 <br/>
@@ -19,13 +19,13 @@
 
 ### Branch
 
-![branch](https://github.com/Vikhyat-1820/TimeTable/blob/master/TIMETABLE_PREVIEW/ScreenshotC.png)
+![branch](https://github.com/Vikhyat-1820/TimeTable/blob/main/TIMETABLE_PREVIEW/ScreenshotC.png)
 
 <br/>
 <br/>
 <br/>
 
-![branch](https://github.com/Vikhyat-1820/TimeTable/blob/master/TIMETABLE_PREVIEW/ScreenshotD.png)
+![branch](https://github.com/Vikhyat-1820/TimeTable/blob/main/TIMETABLE_PREVIEW/ScreenshotD.png)
 
 <br/>
 <br/>
@@ -34,8 +34,7 @@
 
 ### Section
 
-![section](https://github.com/Vikhyat-1820/TimeTable/blob/master/TIMETABLE_PREVIEW/ScreenshotE.png)
-
+![section](https://github.com/Vikhyat-1820/TimeTable/blob/main/TIMETABLE_PREVIEW/ScreenshotE.png)
 <br/>
 <br/>
 <br/>
@@ -43,7 +42,7 @@
 ### TimeTable
 
 
-![TimeTable](https://github.com/Vikhyat-1820/TimeTable/blob/master/TIMETABLE_PREVIEW/ScreenshotF.png)
+![TimeTable](https://github.com/Vikhyat-1820/TimeTable/blob/main/TIMETABLE_PREVIEW/ScreenshotF.png)
 
 
 <br/>
